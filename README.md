@@ -21,3 +21,7 @@ If you decide to build the virtual verion then I suggest you DO NOT download the
 ### Links ###
 * Digital - https://github.com/hneemann/Digital
 * 8 Bit Computer - https://eater.net/8bit
+
+### Layouts ###
+#### Main ####
+![ALU](./images/Main.svg)
