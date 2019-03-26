@@ -19,5 +19,5 @@ My first suggest is - buy the parts (better yet, buy a kit from Ben) and build t
 If you decide to build the virtual verion then I suggest you DO NOT download the files from this repository.  Instead you should create the circuits yourself - placing the components and wiring them together.  __The leaning is in the doing__.  Use the files I provide here as reference if you get stuck.
 
 ### Links ###
-Digital - https://github.com/hneemann/Digital
-8 Bit Computer - https://eater.net/8bit
+* Digital - https://github.com/hneemann/Digital
+* 8 Bit Computer - https://eater.net/8bit
