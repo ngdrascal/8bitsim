@@ -62,5 +62,5 @@ If you decide to build the virtual verion then I suggest you DO NOT download the
 ## Instruction Display ##
 ![Instr-Display](./images/Instr-Display.svg)
 
-## Address Counter ##
-![Addr-Counter](./images/Addr-Counter.svg)
+## Programmer ##
+![Addr-Counter](./images/Programmer.svg)
