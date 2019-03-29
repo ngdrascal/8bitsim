@@ -17,16 +17,6 @@
   </attributes>
   <visualElements>
     <visualElement>
-      <elementName>74189.dig</elementName>
-      <elementAttributes>
-        <entry>
-          <string>shapeType</string>
-          <shapeType>LAYOUT</shapeType>
-        </entry>
-      </elementAttributes>
-      <pos x="200" y="80"/>
-    </visualElement>
-    <visualElement>
       <elementName>74157.dig</elementName>
       <elementAttributes>
         <entry>
@@ -55,16 +45,6 @@
         </entry>
       </elementAttributes>
       <pos x="520" y="80"/>
-    </visualElement>
-    <visualElement>
-      <elementName>74189.dig</elementName>
-      <elementAttributes>
-        <entry>
-          <string>shapeType</string>
-          <shapeType>LAYOUT</shapeType>
-        </entry>
-      </elementAttributes>
-      <pos x="800" y="80"/>
     </visualElement>
     <visualElement>
       <elementName>74157.dig</elementName>
@@ -560,7 +540,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>PROG</string>
+          <string>~PROG</string>
         </entry>
       </elementAttributes>
       <pos x="-320" y="-240"/>
@@ -574,7 +554,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>PROG</string>
+          <string>~PROG</string>
         </entry>
       </elementAttributes>
       <pos x="460" y="260"/>
@@ -588,7 +568,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>PROG</string>
+          <string>~PROG</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="260"/>
@@ -602,7 +582,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>PROG</string>
+          <string>~PROG</string>
         </entry>
       </elementAttributes>
       <pos x="260" y="700"/>
@@ -1064,6 +1044,26 @@
         </entry>
       </elementAttributes>
       <pos x="-340" y="620"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74189.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>shapeType</string>
+          <shapeType>LAYOUT</shapeType>
+        </entry>
+      </elementAttributes>
+      <pos x="800" y="80"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74189.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>shapeType</string>
+          <shapeType>LAYOUT</shapeType>
+        </entry>
+      </elementAttributes>
+      <pos x="200" y="80"/>
     </visualElement>
   </visualElements>
   <wires>
