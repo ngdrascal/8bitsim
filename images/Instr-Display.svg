@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Digital by H.Neemann -->
-<!-- created: Tue Mar 26 15:31:58 CDT 2019 -->
+<!-- created: Fri Mar 29 17:00:29 CDT 2019 -->
 
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -9,7 +9,27 @@
    height="54.9mm"
    viewBox="457 156 527 366">
 <g stroke-linecap="square">
-<path d="M 570,260 L 590,260" stroke="#000000" stroke-width="4.199999999999999" fill="none"/>
+<path d="M 620,254 L 620,260" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 600,360 L 610,360 L 620,360" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 620,380 L 610,380" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 620,400 L 610,400" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 620,420 L 610,420" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,200 L 830,200 L 840,200" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,220 L 830,220" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,240 L 830,240" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,260 L 830,260" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,280 L 830,280" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,300 L 830,300" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,320 L 830,320" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,340 L 830,340" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,360 L 830,360" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,380 L 830,380" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,400 L 830,400" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,420 L 830,420" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,440 L 830,440" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,460 L 830,460" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,480 L 830,480" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 820,500 L 830,500" stroke="#000000" stroke-width="2.8" fill="none"/>
 <path d="M 740,320 L 760,320" stroke="#0000b2" stroke-width="2.8" fill="none"/>
 <path d="M 800,320 L 820,320" stroke="#0000b2" stroke-width="2.8" fill="none"/>
 <path d="M 620,300 L 620,320 L 640,320" stroke="#0000b2" stroke-width="2.8" fill="none"/>
@@ -52,27 +72,7 @@
 <path d="M 800,380 L 820,380" stroke="#0000b2" stroke-width="2.8" fill="none"/>
 <path d="M 740,220 L 760,220" stroke="#0000b2" stroke-width="2.8" fill="none"/>
 <path d="M 800,220 L 820,220" stroke="#0000b2" stroke-width="2.8" fill="none"/>
-<path d="M 620,254 L 620,260" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 600,360 L 610,360 L 620,360" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 620,380 L 610,380" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 620,400 L 610,400" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 620,420 L 610,420" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,200 L 830,200 L 840,200" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,220 L 830,220" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,240 L 830,240" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,260 L 830,260" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,280 L 830,280" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,300 L 830,300" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,320 L 830,320" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,340 L 830,340" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,360 L 830,360" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,380 L 830,380" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,400 L 830,400" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,420 L 830,420" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,440 L 830,440" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,460 L 830,460" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,480 L 830,480" stroke="#000000" stroke-width="2.8" fill="none"/>
-<path d="M 820,500 L 830,500" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 570,260 L 590,260" stroke="#000000" stroke-width="4.199999999999999" fill="none"/>
 <g>
 <circle cx="620.0" cy="320.0" r="4.0" stroke="#0000b2" stroke-width="2.8" fill="#0000b2" />
 <circle cx="620.0" cy="300.0" r="4.0" stroke="#0000b2" stroke-width="2.8" fill="#0000b2" />
