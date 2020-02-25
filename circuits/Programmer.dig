@@ -101,11 +101,11 @@
         </entry>
         <entry>
           <string>Data</string>
-          <data size="16">1e,2f,e0,f0,0,0,0,0,0,0,0,0,0,0,4,5</data>
+          <data>1e,2f,e0,f0,0,0,0,0,0,0,0,0,0,0,4,5</data>
         </entry>
         <entry>
           <string>lastDataFile</string>
-          <string>D:\Digital\projects\8BitComputer\Test-Program01.hex</string>
+          <string>D:\Digital\projects\8bitsim\memory-images\Test-Program01.hex</string>
         </entry>
         <entry>
           <string>autoReload</string>
